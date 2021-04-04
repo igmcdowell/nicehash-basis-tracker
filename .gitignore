@@ -1,0 +1,7 @@
+.env.secret
+*.db
+bin
+include
+lib
+test_data.py
+__pycache__/
