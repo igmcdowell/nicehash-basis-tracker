@@ -18,7 +18,7 @@ https://www.python.org/downloads/
 ### Nicehash API key
 Follow the instructions on https://www.nicehash.com/docs/ for getting an API key. Be sure to generate for the PRODUCTION environment.
 IMPORTANT: Make sure when generating the key to only provide the permission:
-| VBTD - Wallet / View balances transactions and deposit addresses (VBTD)
+> VBTD - Wallet / View balances transactions and deposit addresses (VBTD)
 
 This script only uses a single API endpoint, and the only thing that API does is read your balance. If you limit your key in this way you don't have to worry about someone stealing your coins, and you don't have to trust this script.
 
